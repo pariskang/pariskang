@@ -90,11 +90,10 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pariskang&theme=transparent" alt="commit-lang" />
 </p>
 
-<-- 🐍 contribution snake — enable the workflow ... then uncomment:
+ 🐍 contribution snake — enable the workflow ... then uncomment:
 <p align="center">
   <img src="https://raw.githubusercontent.com/pariskang/pariskang/output/snake.svg" alt="snake" />
 </p>
--->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pariskang&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
